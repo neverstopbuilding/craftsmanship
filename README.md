@@ -39,4 +39,4 @@ Release names should follow the [semantic versioning](http://semver.org/) protoc
 To mark a project as conforming with these guidelines in your own documentation simply plop this little snippet in your `README.md` file:
 
     ##Contribution Guidelines
-    This project conforms to the [neverstopbuilding/craftsmanship](https://github.com/neverstopbuilding/craftsmanship) guidlines for. Please see that repository for details on project administration.
+    This project conforms to the [neverstopbuilding/craftsmanship](https://github.com/neverstopbuilding/craftsmanship) guidlines. Please see that repository for details on project administration.
