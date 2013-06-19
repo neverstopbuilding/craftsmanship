@@ -24,6 +24,10 @@ Completing a feature will merge it into the `develop` branch which is used for i
 
 The `master` branch is used for production code.
 
+##Code Specific
+Guidlines specific to different programming languages and frameworks are found at thier respective pages:
+- [Ruby](https://github.com/neverstopbuilding/craftsmanship/RUBY.md)
+
 #Testing
 Test all the things. More to come...
 
