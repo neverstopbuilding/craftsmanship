@@ -1,5 +1,6 @@
-craftsmanship
-=============
+# Craftsmanship Guidelines
+## 1.2.0 (2013-08-03)
+
 
 A collection of documentation on project contribution guidelines and general adopted practices. This project itself should conform to these guidelines.
 
