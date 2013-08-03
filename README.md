@@ -1,5 +1,6 @@
-craftsmanship
-=============
+# Craftsmanship Guidelines
+## 1.2.0 (2013-08-03)
+
 
 A collection of documentation on project contribution guidelines and general adopted practices. This project itself should conform to these guidelines.
 
@@ -32,6 +33,12 @@ Guidlines specific to different programming languages and frameworks are found a
 
 #Testing
 Test all the things. More to come...
+
+#Documentation
+> "Where is documentation?"
+
+- Projects must include a `CHANGELOG.md` file to document changes, see this project's for formatting guidlines.
+- Projects must include a `VERSION` file to record the semanitc version number.
 
 #Releasing
 Release names should follow the [semantic versioning](http://semver.org/) protocol:
